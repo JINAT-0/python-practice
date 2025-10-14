@@ -1,0 +1,8 @@
+print("*")
+print("**")
+print("***")
+print("****")
+print("*****")
+print("code" "chef")
+print(5,5)
+print(13,end="")
